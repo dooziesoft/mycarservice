@@ -113,7 +113,7 @@ body {
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    color: #8c7f7f;
+    color: black;
     font-size: 16px;
     line-height: 28px;
 }
@@ -1398,7 +1398,7 @@ ul.search-cart li:first-child::after {
 ---------------------------*/
 
 .hero-bg {
-    background-image: url('../img/hero_bg_1.jpg');
+    background-image: url('../img/slider3.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -1658,7 +1658,7 @@ a.ad-btn:hover::after {
 }
 
 .service-bg {
-    background-image: url('../img/service_bg.jpg');
+    background-image: url('../img/car3.jpeg');
     background-size: cover;
 }
 
@@ -2045,7 +2045,7 @@ a.ad-btn:hover::after {
 }
 
 .about_bg {
-    background-image: url('../img/about.jpg');
+    background-image: url('../img/car6.jpg');
     background-size: cover;
     height: 100%;
 }
@@ -2420,7 +2420,7 @@ a.warranty-btn:hover::after {
 }
 
 .quote-bg {
-    background-image: url('../img/quote_bg.jpg');
+    background-image: url('../img/car4.jpeg');
     background-size: cover;
 }
 
@@ -2617,7 +2617,7 @@ a.warranty-btn:hover::after {
 }
 
 .cta-bg {
-    background-image: url('../img/cta_bg.jpg');
+    background-image: url('../img/bottom_banner.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -2801,7 +2801,7 @@ footer .contact-infos .single-info {
 ---------------------------*/
 
 .hero-bg-2 {
-    background-image: url('../img/hero_bg_2.jpg');
+    background-image: url('../img/slider4.png');
     background-size: cover;
 }
 
@@ -2959,7 +2959,7 @@ footer .contact-infos .single-info {
 }
 
 .warranty-bg-2 {
-    background-image: url('../img/warranty_bg.jpg');
+    background-image: url('../img/car2.png');
     background-size: cover;
 }
 
@@ -3070,7 +3070,7 @@ footer .contact-infos .single-info {
 }
 
 .hero-bg-3 {
-    background-image: url('../img/hero_bg_3.jpg');
+    background-image: url('../img/slider2.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -3120,7 +3120,7 @@ footer .contact-infos .single-info {
     -webkit-transform: translate(0);
     transform: translate(0);
     position: absolute;
-    top: 63%;
+    top: 66%;
     left: 0px;
     text-align: center;
     width: 100%;
@@ -3319,13 +3319,13 @@ footer .contact-infos .single-info {
 }
 
 .breadcrumb-txt {
-    padding: 153px 0px 95px;
+    padding: 40px 0px 23px;
     position: relative;
     z-index: 1;
 }
 
 .breadcrumb-bg {
-    background-image: url('../img/breadcrumb_bg.jpg');
+    background-image: url('../img/b1.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -4717,7 +4717,7 @@ footer .contact-infos .single-info {
 
 .contact-section .single-info p {
     margin-bottom: 0px;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 28px;
 }
 
